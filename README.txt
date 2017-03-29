@@ -10,5 +10,5 @@ RPG MAKER MV the latest version written in Javascript.
 RPG MAKER VX ACE the penultimate version written in Ruby.
 
 I started with VX ACE, and thus it is the version I am the most familiar with.
-In VX ACE, the lower levels of the game code are not accessible, they are at least partly documented tho and because Ruby is an interpreted language , you can modify the code slightly. The rest of the code is very well organised and commented which made it easy to learn.
-In MV, all the game code is open but the code is not as well organised and commented. Luckily despite being written in another language, the architecture is more than 90% the same which makes it easier to go from VX ACE to MV.
+In VX ACE, the lower levels of the game code are not visible, they are at least partly documented tho and because Ruby is an interpreted language , you can still modify the code (although it is rarely required). The rest of the code is very well organised and commented which made it easy to learn.
+In MV, all the game code is open but the code is not as well organised and commented. Luckily despite being written in another language, the architecture is more than 90% the same which made it easy to go from VX ACE to MV.

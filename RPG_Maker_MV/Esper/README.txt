@@ -1,0 +1,2 @@
+A script that is intersting because it shows what kind of work I was usually doing. Here I added new mechanics in the game
+(the esper system from Final Fantasy). In this case, I had to build an UI for the player (I'm not fan of UI design/programming but RPG Maker has good built-in functions and I have seen a lot of RPG menus in my life ^^) but also an interface for the game maker. S/He has to be able to add data about those new mechanics.
